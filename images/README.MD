@@ -1,0 +1,2 @@
+# res/images
+Images resources.
